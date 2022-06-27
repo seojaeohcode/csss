@@ -1,0 +1,5 @@
+css는 순서에 따라 적용범위가 달라질 수 있다.
+
+F12 검사를 누르고 해당 블록을 보면 밑줄 그어진 부분은 적용이 안된 것.
+
+display => block inline inlineblock flex
