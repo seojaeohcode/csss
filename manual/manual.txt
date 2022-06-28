@@ -5,3 +5,13 @@ F12 검사를 누르고 해당 블록을 보면 밑줄 그어진 부분은 적�
 display => block inline inlineblock flex
 
 margin border context
+
+검사 => 이미지 => 클릭 => 이미지의 주소가 나옴.
+
+레이어구분이 중요
+
+프로퍼티에서 ,를 통해 방어코드 작성 => 작동이 안 될 경우 나오도록
+
+폴딩 코드 옆 숫자를 눌러 접었을 때 같은 위치라면 동급
+
+margin auto는 블록태그에서만 가능.
