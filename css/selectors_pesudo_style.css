@@ -21,4 +21,18 @@ button{
 
 span{
     color: red;
+    margin: 5px;
+    background-color: aqua;
+}
+
+.span-second:hover{
+    display: none;
+}
+
+.span-third{
+    visibility: hidden;
+}
+
+.span-forth{
+
 }
