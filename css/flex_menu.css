@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    height: 100%;
+}
+
+/* .menu *{
+    border: 0.1rem solid gray;
+} */
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin: 0rem 1rem;
+    background-color: chocolate;
+}
+
+.menu-right{
+    display: flex;
+    width: 60%;
+    justify-content: space-around;
+}
+
+.menu-right > li{
+    list-style-type: none;
+}
+
+.main{
+    background-color: brown;
+}
+
+.footer{
+    background-color: tomato;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container * {
+    border: 0.1rem solid gainsboro;
+}
